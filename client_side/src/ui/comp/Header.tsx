@@ -7,7 +7,7 @@ export default function Header(){
         <div className="flex text-slate-400 font-medium  gap-10 ">
           <span className="hover:text-slate-200 hover:cursor-pointer duration-300 py-1">Home</span>
           <span className="hover:text-slate-200 hover:cursor-pointer duration-300 py-1">About</span>
-          <span className="hover:text-slate-200 hover:cursor-pointer duration-300 rounded py-1 px-3 text-white/70 bg-slate-800">Log in</span>
+          <span className="hover:text-slate-200 hover:cursor-pointer hover:bg-slate-600 duration-300 rounded py-1 px-3 text-white/70 bg-slate-800">Log in</span>
         </div>
       </div>
     )
